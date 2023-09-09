@@ -1,9 +1,6 @@
 hodnoty = open('hodnoty.txt').read().splitlines()
 #print (hodnoty)
-global epsilon
-global gamma
-global count_1
-global count_0
+
 count_0 =0
 count_1 =0
 epsilon =0
